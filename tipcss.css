@@ -1,0 +1,27 @@
+body {
+    background-image: url('Tip-Jar2.jpeg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+	background-size: cover;
+    font-family: 'Federant', cursive;
+  }
+
+  .heading, .display-5, .pb-3 {
+    font-size: 2.6rem;
+    font-weight: 700;
+    color: #769487;
+    text-shadow: 1px 1px rgb(0, 0, 0);
+  }
+  
+  h5 {
+    color: #769487;
+    font-size: 1.9rem;
+    text-shadow: 0.5px 0.5px black;
+  }
+  
+  .input-group-addon {
+    background-color: #769487;
+    font-size: 1.1rem;
+  }
+
+  
